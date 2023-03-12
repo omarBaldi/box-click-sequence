@@ -9,3 +9,9 @@ The challenge consists in the following:
 - as soon as the box is clicked, it should change the color to green
 
 - after all of the boxes have been clicked (and therefore changed color), the boxes should revert back to their default color in the order they were clicked one by one.
+
+---
+
+
+https://user-images.githubusercontent.com/69468820/224545211-d3ba8c57-7b7f-4698-b129-651db664ba03.mov
+
